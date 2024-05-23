@@ -1,12 +1,9 @@
-'use client'
-
-import { Tldraw } from 'tldraw'
-import './index.css'
+import MyCanvas from "./components/Canvas"
 
 export default function App() {
 	return (
 		<div style={{ position: 'fixed', inset: 0 }}>
-			<Tldraw />
+			<MyCanvas />
 		</div>
 	)
 }

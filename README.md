@@ -12,3 +12,7 @@ The embedded webcam app is generated from the near-bos-webcomponent template rep
 #### tldraw
 The canvas element
 
+
+### Huge Thanks!
+This project made possible through the help of multiple folks whether it was answering questions, helping me debug, or sharing their own codebases to serve as examples. Thank you [Orion Reed](https://github.com/OrionReed) and the [Near Builders](https://github.com/NEARBuilders) team especially 🫶
+
